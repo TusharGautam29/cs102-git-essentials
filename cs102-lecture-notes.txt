@@ -1,0 +1,5 @@
+Git commit-Takes the staged snapshot and commits it to the project history.
+Git add-Moves changes from the working directory to the staging area.
+Git clone-Creates a copy of an existing Git repository.
+Git log-Lets you explore the previous revisions of a project.
+Git push-It lets you move a local branch to another repository,
